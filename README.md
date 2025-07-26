@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # waste_classifier_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# ai-waste-classifier-app
+ AI-powered image classification system for waste detection.
+>>>>>>> ef8313014972d4ebd8766f8ebb39b5cd342cc551
