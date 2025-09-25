@@ -11,7 +11,7 @@ app = Flask(__name__)
 CORS(app)  # This allows your Flutter app to connect (especially on Android emulator)
 
 # Load your trained model
-model = load_model("model/final_model.h5")
+model = load_model("model/final_model.keras")
 
 # Define class labels (update this to your actual model's classes)
 class_labels = ['cardboard', 'glass', 'metal', 'paper', 'plastic', 'trash']
